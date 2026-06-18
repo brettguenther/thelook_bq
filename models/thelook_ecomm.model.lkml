@@ -1,4 +1,4 @@
-connection: "the_look_bq_test"
+connection: "default_bigquery_connection"
 include: "/views/**/*.view" # include all the views
 ## test
 
