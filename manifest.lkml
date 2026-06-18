@@ -1,4 +1,4 @@
-project_name: "looker_developer_guide_test"
+project_name: "thelook_ecomm"
 
 localization_settings: {
   default_locale: en
